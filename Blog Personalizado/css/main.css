@@ -100,7 +100,7 @@ nav .profile--link {
 .home-main {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
-    height: 600px;
+    height: 500px;
     background-image: url('../img/laptop-2620118_1920.jpg');
     background-position: center;
     background-repeat: no-repeat;
